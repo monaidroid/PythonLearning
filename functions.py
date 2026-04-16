@@ -34,7 +34,6 @@ def greet(name:str, greeting:str = 'Hello,') -> None:
     print(f'{greeting} {name}!')
 
 # calling the function with and without default values
-greet('Alice') #Output : Hello, Alice! 
+greet('Alice') # Output : Hello, Alice! 
 greet('Bob', 'Hi') # output : Hi Bob!
 greet(name = "Charlie!", greeting = "Welcome") # output : Welcome Charlie!!
-

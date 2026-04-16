@@ -36,6 +36,6 @@ print(person_dict["is_student"])  # Output: False
 
 # It is a collection of unique elements, defined using curly braces {}. 
 # Sets are unordered and do not allow duplicate values.
-unique = {8,7, 1, 2, 3, 4, 4, 5}
+unique = {8,7, 1, 2, 4, 4, 3, 5}
 print(type(unique))  # Output: <class 'set'>
 print(unique)  # Output: {1, 2, 3, 4, 5, 7, 8}

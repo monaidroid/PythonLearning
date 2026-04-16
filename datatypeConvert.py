@@ -1,4 +1,5 @@
-# convert string datatype into number datatype 
+# Run with python datatypeConvert.py
+# Convert string datatype into number datatype 
 # The int() function is used to convert a string to an integer.
 # While the float() function is used to convert a string to a floating-point number.
 number_str = "42"
